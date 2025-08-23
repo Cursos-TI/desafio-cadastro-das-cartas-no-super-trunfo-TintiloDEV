@@ -4,6 +4,7 @@ int main()
 {
 
     // CARTA 1
+    
     char codigocidade1[40];
     char nome1[40];
     int populacao1;
